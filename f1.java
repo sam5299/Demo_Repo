@@ -1,1 +1,3 @@
-class f1{}
+class f1{
+	public static void main(String args[])
+}
